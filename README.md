@@ -33,3 +33,7 @@ Please refer to my [report](report.pdf) to see full details, i.e., technical dis
 **Skills:** _Pytorch_, _Python_, _Deep Neural Networks_, _Jupyter Lab_, _Colab_
 
 ## 2. Demo
+
+Here are the results on the testing dataset for the _default network_:
+
+![outcome](/demo/outcome.png)
