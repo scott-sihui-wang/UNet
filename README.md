@@ -4,7 +4,7 @@
 
 In this project, I re-implemented `UNet` and tested its segmentation performance. I did a bunch of experiments to see how different model parameters and training parameters can affect `UNet`'s performance on segmentation. 
 
-Please refer to my [report](report.pdf) to see full details, i.e., technical discussions, how to run the code, qualitative and quantitative results.
+Please refer to my [report](report.pdf) to see full technical details.
 
 ### Experiments
 
